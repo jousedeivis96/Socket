@@ -1,0 +1,19 @@
+body{
+    background-image: url("img/cropped-1366-768-426080.jpg");
+    width: 50%;
+    
+
+
+
+    
+}
+h1{
+    color: aqua;
+    text-align: center;
+}
+label{
+    color:rgb(252, 245, 245);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
